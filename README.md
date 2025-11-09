@@ -6,3 +6,5 @@
 
 ## Clone
 https://stackoverflow.com/questions/69921353/how-can-i-clone-a-non-paired-ble-signal-from-a-remote-to-trigger-a-device
+
+https://www.youtube.com/watch?v=KFVb4ZJ3Pgk
